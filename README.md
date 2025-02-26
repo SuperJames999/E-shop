@@ -1,4 +1,4 @@
-# Opacity Web2.0
+# EShop
 
 ## Installation
 
